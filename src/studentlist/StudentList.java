@@ -32,6 +32,7 @@ public class StudentList {
         for(int i=0;i<studList.length;i++)
         {
             System.out.println("Student Name: "+studList[i].getStudName());
+           System.out.println("hello");
         }
     }
 
